@@ -1,0 +1,53 @@
+﻿  main.cpp
+C:\Users\milan\Desktop\game chess\Project1\Project1\main.cpp(33,28): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\milan\Desktop\game chess\Project1\Project1\main.cpp(33,21): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\milan\Desktop\game chess\Project1\Project1\main.cpp(65,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\milan\Desktop\game chess\Project1\Project1\main.cpp(65,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\milan\Desktop\game chess\Project1\Project1\main.cpp(69,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\milan\Desktop\game chess\Project1\Project1\main.cpp(117,64): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\milan\Desktop\game chess\Project1\Project1\main.cpp(117,58): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\milan\Desktop\game chess\Project1\Project1\main.cpp(130,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\milan\Desktop\game chess\Project1\Project1\main.cpp(130,66): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\milan\Desktop\game chess\Project1\Project1\main.cpp(131,62): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\milan\Desktop\game chess\Project1\Project1\main.cpp(131,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Project1.vcxproj -> C:\Users\milan\Desktop\game chess\Project1\Debug\Project1.exe
